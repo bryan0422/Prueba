@@ -1,0 +1,21 @@
+aqui si por que no hay un repositorio git iniciado checa 
+git remote
+fatal: not a git repository (or any of the parent directories): .git
+error por que no lo e iniciado 
+git init 
+para iniciarlo 
+Initialized empty Git repository in /Users/jbryan/Desktop/gitPrueba/.git/
+tu no vez aqui pero ya se creo una carperta .git checa
+archiv aqui vez
+ahi esta la carperta pero escondida
+si pones de nuevo git remote no aparece nada pero no da eerror
+eso quiere decir que aun no xd agregas el repositorio de t github
+hay que agregarlo 
+metete a tu github
+ya que lo copiaste vas a poner
+git remote add origin https://github.com/bryan0422/Prueba.git
+te explico ese comando dice agrega un repositorio remoto con el nombre origin , esta es su URL 
+ya no te dice nada 
+pero s i corres de nuev
+git remote 
+ya esta agregado
