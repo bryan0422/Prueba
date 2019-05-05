@@ -19,3 +19,47 @@ ya no te dice nada
 pero s i corres de nuev
 git remote 
 ya esta agregado
+okvamos 
+a subir los cambios asi
+git add .
+para agregar todos os archivos nuevos y modificados 
+osea este arvhico en este caso
+listo 
+despues a poeer una desripcion o comentario de que isismos en estos archivos que acabamss de agregar
+asi 
+git commit -am " hola mundo" 
+commit de comentar y las -am de agrgear y comentar
+pon"ël comentario
+Eso es por que no tenias configurado tu git o se reiniicio ahi te dice que agreges quien eres para saber wui
+quien is o loscambios a estos archivos
+salte xd
+jajaj como me salfgo 
+exscape :q
+ya bueno ya que pusiste toodd 
+ahora si a subirlo 
+con 
+git push origin master
+eso dice sube los archivos y cambios que ise con l comentario que agrege a mi repositorio con nombre origin y e k branch o rama master
+
+mira que el branch o rama sea la misma local y a la que subiras en este caso master ahi dice donde etas o en que brac en la esquina
+vex=? si 
+ok ahoria si a subirlo 
+Ya
+chca tu repo
+
+vex 
+ahora vamos a agregar un archivo secreto 
+asi 
+primero lo creamos 
+ya 
+ahora vamos a decirle a git qe ese archivo no lo suba asi 
+
+asi se llma .gitignore 
+ahi pones la ruta a los archivos o carpetas que no quieres que se suban 
+asi 
+
+ya 
+ves como se puso gris el arvhico ? simon 
+ahora a subirlo  ahora tu solo
+
+ 
